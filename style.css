@@ -35,6 +35,7 @@ body {
     margin: 7% 20%;
     border-radius: 9px;
     padding: 30px 30px;
+    max-width: 400px;
 }
 .container img {
     width: 24px;
